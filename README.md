@@ -1,5 +1,5 @@
 ## Hey there!, I am Hrithik👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrithik0216)](https://github.com/Hrithik0216/github-readme-stats)
 <!--
 **Hrithik0216/Hrithik0216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
