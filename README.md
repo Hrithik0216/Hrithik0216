@@ -1,7 +1,8 @@
-## Hey there!, I am Hrithik👋
-
-<img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=Hrithik0216&show_icons=true"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik0216&layout=compact"/>
+## Hey there! I am Hrithik👋
+<h2>My stats✨<h2/>
+<hr/>
+<img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Hrithik0216&show_icons=true"/>
+<img alt="Top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik0216&layout=compact"/>
 
 <!--
 **Hrithik0216/Hrithik0216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
