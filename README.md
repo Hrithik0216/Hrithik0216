@@ -3,7 +3,7 @@
 
 
 - 🔭 Here's my [portfolio](https://lustrous-faloodeh-86ed88.netlify.app/)
-- 🌱 I’m currently learning DSA
+- 🌱 Engaged in full-stack development, building web applications for real-world problems, and enhancing my skills in DSA.
 # Contact Information
 
 - 📫 Connet with me:
